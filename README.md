@@ -20,7 +20,7 @@ Step-5: Update weights using gradient descent.
 
 Step-6: End
 ## Program:
-
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: NARRA RAMYA
@@ -71,7 +71,7 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: (pre)")
 
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/79fd109e-b98a-40c5-9952-6abb8e6d8ca2)
 
